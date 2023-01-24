@@ -1,6 +1,6 @@
-# password-geneleter
+# Password-geneleter
 It can make password.
-## how to make password
-1. you download index.py.
-2. you move password-geneleter.
-3. you exection index.py.
+## How to make password
+1. You download index.py.
+2. You move password-geneleter.
+3. You exection index.py.
